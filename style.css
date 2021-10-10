@@ -82,7 +82,7 @@ body {
   -moz-border-radius: 0px 20px 20px 0px;
   -ms-border-radius: 0px 20px 20px 0px;
   -o-border-radius: 0px 20px 20px 0px;
-  background-image: url("/images/image-header-desktop.jpg");
+  background-image: url("https://lawrencecheng123.github.io/images/image-header-desktop.jpg");
 
   position: relative;
 }
