@@ -24,7 +24,7 @@ body {
   -ms-border-radius: 10px;
   -o-border-radius: 10px;
   display: grid;
-  grid-template-columns: 1fr 500px;
+  grid-template-columns: 1fr 460px;
 }
 .container .content {
   padding: 60px 70px;
